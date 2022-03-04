@@ -70,10 +70,6 @@ img.bg {
 		#hangimages {
 			align-content: center;
 			margin: 0px 250px;
-		}
-
-		#fitness-hangman {
-			background-image: url("fitness-hangman-background.jpeg");
 		}	
 			
 		#page-wrap { position: relative; width: 800px; height: 500px; margin: 50px auto; padding: 20px;}
