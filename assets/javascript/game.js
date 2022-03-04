@@ -2,7 +2,7 @@ fitnessArray = ["weights", "bodybuilding", "powerlifting", "hiking", "yoga", "co
 "competition", "shoes", "gym", "running", "squat", "deadlift", "bicep", "coach", "weightlifting"];
 
 imagesArray =["assets/images/hangman6.png", "assets/images/hangman5.png", "assets/images/hangman4.png",
-"assets/images/hangman3.png", "assets/images/hangman2.png", "assets/images/hangman1.png"];
+"assets/images/hangman3.png", "assets/images/hangman2.png", "assets/images/hangman1.png", "assets/images/hangman0.png"];
 
 
 var random = "";
