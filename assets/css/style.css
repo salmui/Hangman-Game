@@ -56,9 +56,10 @@ img.bg {
 		}
 		#innerdiv {
 			text-align: center;
-			width: 200px;
-			height: 80px;
+			width: 198px;
+			height: 60px;
 			background-color: #fff;
+			border: 1px solid #D3D3D3;
 		}
 
 		#guessed {
